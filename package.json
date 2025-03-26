@@ -1,0 +1,53 @@
+{
+  "name": "project-wizard",
+  "version": "1.1.0",
+  "type": "module",
+  "bin": {
+    "project-wizard": "index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["project-setup",
+    "cli",
+    "react",
+    "vue",
+    "nextjs",
+    "express",
+    "javascript",
+    "typescript",
+    "tailwindcss",
+    "eslint",
+    "boilerplate",
+    "scaffolding",
+    "npm",
+    "setup-wizard",
+    "automation",
+    "dev-tools",
+    "web-development",
+    "framework",
+    "create-project"],
+  "author": "Niraj Bhakta",
+  "license": "MIT",
+  "description": "A Project Setup Wizard for React, Vue, Next.js, and Express.",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "child_process": "^1.0.2",
+    "cli-progress": "^3.12.0",
+    "figlet": "^1.8.0",
+    "fs-extra": "^11.3.0",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^12.5.0",
+    "license": "^1.0.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niraj037/project-wizard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Niraj037/project-wizard/issues"
+  },
+  "homepage": "https://github.com/Niraj037/project-wizard#readme"
+}
